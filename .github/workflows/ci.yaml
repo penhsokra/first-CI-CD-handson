@@ -10,7 +10,6 @@ jobs:
   build-and-push:
     runs-on: ubuntu-latest
     environment: DH_ENV
-
     steps:
       # -----------------------------
       # Checkout code
